@@ -1,4 +1,4 @@
 {
 "access":"1",
-"url":"https://goolge.com"
+"url":"https://google.com"
 }
